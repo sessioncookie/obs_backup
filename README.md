@@ -121,9 +121,9 @@
 5. 開啟一個 Pull Request。
 
 ## 聯繫方式
-- **作者**：Your Name
-- **電子郵件**：your.email@example.com
-- **GitHub**：[@yourusername](https://github.com/yourusername)
+- **作者**：三玄庫崎
+- **電子郵件**：session.cookie.vtuber
+- **GitHub**：[@session_cookie](https://github.com/session_cookie)
 - **問題回報**：請在 GitHub 倉庫提交 [Issue](<倉庫地址>/issues)
 
 ## 授權
