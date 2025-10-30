@@ -123,8 +123,8 @@
 ## 聯繫方式
 - **作者**：三玄庫崎
 - **電子郵件**：session.cookie.vtuber
-- **GitHub**：[@session_cookie](https://github.com/session_cookie)
-- **問題回報**：請在 GitHub 倉庫提交 [Issue](<倉庫地址>/issues)
+- **GitHub**：[@sessioncookie](https://github.com/sessioncookie)
+- **問題回報**：請在 GitHub 倉庫提交 [Issue](https://github.com/sessioncookie/obs_backup/issues)
 
 ## 授權
 本程式基於 [MIT 授權](LICENSE) 發布。你可以自由使用、修改和分發，但請保留原作者資訊。
